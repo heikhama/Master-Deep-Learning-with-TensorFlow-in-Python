@@ -1,6 +1,6 @@
 YouTube Video Title:
 Master Deep Learning with TensorFlow in Python | Chapter 1: Introduction to Neural Networks
-
+https://youtu.be/w3YfcJgIhS0
 Video Description:
 🚀 Welcome to "Master Deep Learning with TensorFlow in Python"! In this first chapter, we introduce you to Neural Networks, the foundation of Deep Learning. Whether you're a beginner or looking to strengthen your understanding, this video will provide a clear, step-by-step explanation of key concepts.
 
